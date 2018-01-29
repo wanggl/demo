@@ -5,12 +5,14 @@ if(addd){
  delete form  
 }
 
-if(2>1){
-  alert(1);
-}
-
+ 
 
 
 add 66666
 add 3
 add 88888
+
+
+
+add 9999
+
