@@ -1,12 +1,15 @@
 2018/1/292222 
 33333
-444444
-555
+
+if(addd){
+ delete form  
+}
+
 if(2>1){
   alert(1);
 }
 
 
 
-add  1 
+add 66666
 add 3
